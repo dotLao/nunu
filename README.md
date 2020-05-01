@@ -26,22 +26,22 @@
 #### Features
 * **Movies**
    * **Only** movies that are in theaters
-   * Highest quality, video and sound
+   * Highest quality (*video and sound*)
 * **Details**
-   * Offers insight and details overlay
+   * Offers insight and details (*overlay*)
 * **Ratings System**
-   * Ratings from nunu users - can be focused to target demographic
-   * 3rd party ratings are available as well
+   * Ratings from nunu users (*can be focused to target demographic*)
+   * 3rd party ratings 
   
 ### Planning
 - [ ] Branding Kit
    - [ ] Logo
-   - [ ] Font
-   - [ ] Color Palette
+   - [x] Font
+   - [x] Color Palette
 - [ ] UI/UX Design
-   - [ ] App Layout
+   - [ ] Mobile App Layout
    - [ ] Desktop Layout
-   - [ ] Mobile Web Layout
+   - [x] Smart TV App Layout
 - [ ] (iOS) Development 
    - [ ] Make initial framework on xCode
    - [ ] Landing Page
