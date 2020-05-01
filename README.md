@@ -42,12 +42,16 @@
    - [ ] App Layout
    - [ ] Desktop Layout
    - [ ] Mobile Web Layout
-- [ ] iOS Development 
+- [ ] (iOS) Development 
    - [ ] Make initial framework on xCode
    - [ ] Landing Page
    - [ ] Authentication
    - [ ] Dashboard
-   - [ ] 
+   - [ ] Movie Scroll
+   - [ ] *Play* Settings Overlay
+   - [ ] Details and Insight Overlay
+   - [ ] Ratings System
+   - [ ] Settings Page
 - [ ] Microsite Development
    - [ ] Set up repository
    - [ ] Write initial HTML framework
