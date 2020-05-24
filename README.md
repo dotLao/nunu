@@ -18,10 +18,13 @@
   * Dashboard
   * Available Movies
   * Selection of Movie
+  * Payment Method(s)
   * Video Playback
-  * Cast / Film Insights
-  * Opportunity to Rate Film
+  * Cast / Film Insights (Overlay)
+  * Ratings and Reviews
+  * User Profile
   * Settings
+* Sign Out
 
 #### Features
 * **Movies**
